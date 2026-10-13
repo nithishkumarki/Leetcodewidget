@@ -26,6 +26,8 @@ Ensure you have Python (3.8 or higher) installed on your Windows machine.
 Open your terminal (Command Prompt or PowerShell) and run:
 ```bash
 pip install PyQt6 requests
+
+
 3. Configure Your Widget
 Open the script file and update your personal settings at the top:
 
