@@ -13,9 +13,9 @@ from PyQt6.QtWidgets import (
 )
 
 # ----------------------------- SETTINGS ------------------------------------
-LEETCODE_USERNAME = "nithishkumarki"
+LEETCODE_USERNAME = "enter your leetcode user name"
 REFRESH_INTERVAL = 30 * 60 * 1000  # 30 minutes
-IMAGE_PATH = r"C:\Users\Nithish\Downloads\grayscale-image.png"
+IMAGE_PATH = r"enter your image path"
 STAY_ON_TOP = False       # True = stays visible above other windows (also survives Win+D)
 SHOW_IN_TASKBAR = True   # True = shows as an app in the taskbar so you can always bring it back
 RESIZE_EDGE = 8          # thickness (px) of the invisible resize border on all 4 sides
